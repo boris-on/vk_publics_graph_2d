@@ -8,14 +8,14 @@
     "text": ""
   },
   "text": {
-    "more": "",
-    "intro": "",
+    "more": "https://github.com/boris-on/vk_publics_graph_2d",
+    "intro": "Граф, отражающий схожесть аудитории среди 500 самых популярных сообществ ВК",
     "title": ""
   },
   "legend": {
-    "edgeLabel": "",
+    "edgeLabel": "Наличие похожей аудитории",
     "colorLabel": "",
-    "nodeLabel": ""
+    "nodeLabel": "Паблик ВК"
   },
   "features": {
     "search": true,
