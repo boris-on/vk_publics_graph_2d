@@ -7,3 +7,5 @@ https://boris-on.github.io/vk_publics_graph_2d
 ### Технологический стек
 - Python для сбора и анализа данных
 - Sigma.js на фронтенде
+
+![](https://github.com/boris-on/vk_publics_graph_2d/blob/main/images/Screenshot_1.png)
