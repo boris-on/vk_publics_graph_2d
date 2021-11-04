@@ -8,14 +8,14 @@
     "text": ""
   },
   "text": {
-    "more": "",
-    "intro": "",
+    "more": "long",
+    "intro": "short",
     "title": ""
   },
   "legend": {
-    "edgeLabel": "",
+    "edgeLabel": "Наличие похожей аудитории",
     "colorLabel": "",
-    "nodeLabel": ""
+    "nodeLabel": "Паблик ВК"
   },
   "features": {
     "search": true,
