@@ -9,3 +9,5 @@ https://boris-on.github.io/vk_publics_graph_2d
 - Sigma.js на фронтенде
 
 ![](https://github.com/boris-on/vk_publics_graph_2d/blob/main/images/Screenshot_1.png)
+
+Старая 3D версия - https://github.com/boris-on/vk_graph
